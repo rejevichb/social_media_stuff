@@ -4,6 +4,8 @@ This program allows you to get a 100% accurate list of people who do not follow 
 
 It requires basic and simple use of the command prompt and checking for/downloading python. 
 
+### If you are proficient with using command line and have python already; proceed to step 5, providing the full file paths to the command. 
+
 ## Step 1.
 
 ### Aquire your insagram data. 
