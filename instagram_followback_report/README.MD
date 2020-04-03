@@ -15,8 +15,7 @@ an email, you will be guided to a web page and presented with a multi part data 
 ## Step 2
 
 
-Unzip the gzipped file and Identify the file connections.json
-Place this file in a subdirectory (create a new one and name it)
+Unzip the gzipped file and identify the file `connections.json`. Place this file in a subdirectory (create a new one and name it)
 
 ## Step 3
 Make sure you have python 3 downloaded on your computer. If not, download before proceeding. 
@@ -34,11 +33,12 @@ and press enter. Use `cd`, `ls -la`, and `pwd` from https://www.codecademy.com/a
 If you have trouble, google `"how to open command line at a folder (insert your OS here)"`
 
 ## Step 5
-Once you have a command line at the folder, when you type pwd you will see a path ending in the name of the folder
+Once you have a command line at the folder, when you execute the command `pwd` you will see a path ending in the name of the folder
 displayed. If you type `ls -la` in the folder, you should see the two files, connections.json and GetFollowers.py.
 
-Execute the following command:
-python3 Get_Unfollowers.py connections.json
+Execute the following command
+
+`python3 Get_Unfollowers.py connections.json`
 
 ## Step 6
 
