@@ -16,6 +16,7 @@ an email, you will be guided to a web page and presented with a multi part data 
 
 
 Unzip the gzipped file and identify the file `connections.json`. Place this file in a subdirectory (create a new one and name it)
+Also place the file `Get_Unfollowers.py` from this github (can be found in the folder `instagram_followback_report`) in the same folder/subirectory as `connections.json`
 
 ## Step 3
 Make sure you have python 3 downloaded on your computer. If not, download before proceeding. 
